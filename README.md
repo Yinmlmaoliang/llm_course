@@ -12,13 +12,17 @@
 
 请从以下链接下载预训练模型，提取码 `yKDZ`:
 [ChatGLM-6B-学术论文写作问答 模型](https://pan.quark.cn/s/fa1aa1d8a9a7)
+
 请从以下链接下载数据集:
 [问答数据](https://pan.quark.cn/s/6a145db8bb72)
+
 下载完成后,请将模型文件解压到项目根目录。
 
 ### 2. 环境配置
 确保您的系统已安装Python 3.10+。
+
 下载并设置 LLaMA Factory 后，环境不需要重新安装。
+
 执行以下命令安装本项目所需依赖:
 ```bash
 pip install -r requirements.txt
