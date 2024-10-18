@@ -10,8 +10,8 @@
 ## 快速开始
 ### 1. 下载模型
 
-请从以下链接下载预训练模型，提取码 `yKDZ`:
-[ChatGLM-6B-学术论文写作问答 模型](https://pan.quark.cn/s/fa1aa1d8a9a7)
+请从以下链接下载预训练模型:
+[ChatGLM-6B-学术论文写作问答 模型](https://pan.quark.cn/s/fbfe6572170c)
 
 请从以下链接下载数据集:
 [问答数据](https://pan.quark.cn/s/6a145db8bb72)
